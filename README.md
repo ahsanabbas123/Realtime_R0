@@ -6,9 +6,8 @@ Based on the implementation of [Bettencourt & Ribeiro 2008](https://journals.plo
 <br>
 
 #### Rt Graphs
-<br>
 (Using 10 day smoothening in gaussian filter)
 India:
-![India Rt Graph](https://github.com/ahsanabbas123/Realtime_R0/blob/master/Images/India_10.png)
+![alt text](https://github.com/ahsanabbas123/Realtime_R0/blob/master/Images/India_10.png "India")
 
 
