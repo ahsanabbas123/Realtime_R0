@@ -9,10 +9,10 @@ Based on the implementation of [Bettencourt & Ribeiro 2008](https://journals.plo
 
 #### R<sub>t</sub> Graphs
 (Using 10 day smoothing in gaussian filter)<br>
-![alt text](https://github.com/ahsanabbas123/Realtime_R0/blob/master/Images/India_10.png "India")
-![alt text](https://github.com/ahsanabbas123/Realtime_R0/blob/master/Images/MH_10.png "Maharashtra")
-![alt text](https://github.com/ahsanabbas123/Realtime_R0/blob/master/Images/RJ_10.png "Rajasthan")
-(Using 7 day smoothing in gaussian filter for Delhi)<br>
+![alt text](https://github.com/ahsanabbas123/Realtime_R0/blob/master/Images/India_10.png "India")  
+![alt text](https://github.com/ahsanabbas123/Realtime_R0/blob/master/Images/MH_10.png "Maharashtra")  
+![alt text](https://github.com/ahsanabbas123/Realtime_R0/blob/master/Images/RJ_10.png "Rajasthan")  
+(Using 7 day smoothing in gaussian filter for Delhi)<br>  
 ![alt text](https://github.com/ahsanabbas123/Realtime_R0/blob/master/Images/DL.png "Delhi")
 
 
